@@ -1,3 +1,5 @@
+** Il faut utiliser WIDNOWS **
+
 ***************************************************************************************************************************
 *																			        *
 *   Pour compiler les fichiers, il faut d'abord installer l'IDE VS-Code et le compilateur GCC, puis ouvrir le fichier     *
